@@ -67,5 +67,5 @@ Ejecución Local
     mvn spring-boot:run
 
 <p align="center">
-Desarrollado por <a href="[Jhonnatan Posada](https://jhonnatanposada.dev/)" target="_blank">Jhonnatan Posada</a>
+Desarrollado por <a href="https://jhonnatanposada.dev/" target="_blank">Jhonnatan Posada</a>
 </p>
