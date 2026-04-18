@@ -10,5 +10,5 @@ import java.util.Optional;
 public interface UsuarioRepository extends JpaRepository<UserServiceModel, Long> {
     
     Optional<UserServiceModel> findByUsername(String username);
-    Optional<UserServiceModel> findByPasword(String username);
+    Optional<UserServiceModel> findByPassword(String password);
 }
